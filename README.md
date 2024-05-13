@@ -60,3 +60,11 @@ To guide our analysis, we formulated several key questions to explore and addres
 14.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
 15.	Which market segments contribute the most revenue to the hotels?
 16.	How do booking patterns vary across different seasons or months of the year?
+
+Conclusion-
+
+
+
+## Notice:
+
+All customer names and data used in this project are computer-generated using AI and random functions. They do not represent real data associated with Booking.com or any other entity. This project is solely for learning and educational purposes, and any resemblance to actual persons, businesses, or events is purely coincidental.
