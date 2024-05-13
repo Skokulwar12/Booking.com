@@ -50,16 +50,23 @@ To guide our analysis, we formulated several key questions to explore and addres
 ![Screenshot 2024-05-11 191259](https://github.com/Skokulwar12/Booking.com/assets/163553184/a0111170-6614-49d2-abc6-2b4b919af9de)
 
 
-7.	What meal options (e.g., breakfast included, half-board) are most preferred by guests? 
-8.	Do bookings made through agents exhibit different cancellation rates or booking durations compared to direct bookings?
-9.	How do prices vary across different hotels and room types? Are there any seasonal pricing trends? 
-10.	What percentage of bookings require car parking spaces, and does this vary by hotel location or other factors?
-11.	What are the main reservation statuses (e.g., confirmed, cancelled, checked-in), and how do they change over time? 
-12.	What is the distribution of guests based on the number of adults, children, and stays in weekend nights?
-13.	Which email domains are most commonly used for making hotel bookings? 
-14.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
-15.	Which market segments contribute the most revenue to the hotels?
-16.	How do booking patterns vary across different seasons or months of the year?
+5.	What meal options are most preferred by guests?
+
+
+![Screenshot 2024-05-13 195215](https://github.com/Skokulwar12/Booking.com/assets/163553184/9cc157a4-8328-4bbc-a4c4-820a2c06e648)
+
+
+![Screenshot 2024-05-13 195429](https://github.com/Skokulwar12/Booking.com/assets/163553184/3e26ce44-7ee9-4513-a982-f2d4da388db6)
+
+6.	Do bookings made through agents exhibit different cancellation rates or booking durations compared to direct bookings?
+10.	How do prices vary across different hotels and room types? Are there any seasonal pricing trends? 
+11.	What percentage of bookings require car parking spaces, and does this vary by hotel location or other factors?
+12.	What are the main reservation statuses (e.g., confirmed, cancelled, checked-in), and how do they change over time? 
+13.	What is the distribution of guests based on the number of adults, children, and stays in weekend nights?
+14.	Which email domains are most commonly used for making hotel bookings? 
+15.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
+16.	Which market segments contribute the most revenue to the hotels?
+17.	How do booking patterns vary across different seasons or months of the year?
 
 Conclusion-
 
