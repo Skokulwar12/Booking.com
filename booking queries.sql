@@ -164,3 +164,43 @@ GROUP BY
 		country
 ORDER BY 
 		parking_spaces DESC;
+
+--What are the main reservation statuses and what are there percentage? 
+
+SELECT 
+		reservation_status,
+		COUNT(*) * 100 / 
+		(SELECT 
+		 		COUNT(*) 
+		 FROM 
+		 		booking_view) 
+		 AS 
+		 		count_of_reservation_status
+		
+FROM 
+		booking_view
+GROUP BY 	
+		reservation_status
+ORDER BY 	
+		count_of_reservation_status DESC;
+
+
+--How do reservation_status change over time? 
+
+SELECT 
+		reservation_status,
+		COUNT(*) 
+		AS
+		 		count_of_reservation_status,
+		TO_CHAR
+				(booking_date, 'YYYY') 
+		AS 
+			reservation_year
+		
+FROM 
+		booking_view
+GROUP BY 	
+		reservation_status,
+		reservation_year
+ORDER BY 	
+		reservation_year DESC;
