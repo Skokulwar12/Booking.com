@@ -139,3 +139,28 @@ GROUP BY
 		booking_month
 ORDER BY 
 		average_price DESC;
+
+
+--What percentage of bookings require car parking spaces, and does this vary by hotel location or other factors?
+
+SELECT 
+		hotel,
+		country,
+		ROUND(
+					SUM(required_car_parking_spaces) * 100/ 
+			 (SELECT
+			  		SUM(required_car_parking_spaces) 
+			  FROM 
+			  		booking_view)) 
+					
+			  AS
+			  		parking_spaces
+FROM 
+		booking_view
+WHERE
+		required_car_parking_spaces > 0
+GROUP BY 
+		hotel,
+		country
+ORDER BY 
+		parking_spaces DESC;
