@@ -58,15 +58,37 @@ To guide our analysis, we formulated several key questions to explore and addres
 
 ![Screenshot 2024-05-13 195429](https://github.com/Skokulwar12/Booking.com/assets/163553184/3e26ce44-7ee9-4513-a982-f2d4da388db6)
 
-6.	Do bookings made through agents exhibit different cancellation rates or booking durations compared to direct bookings?
-10.	How do prices vary across different hotels and room types? Are there any seasonal pricing trends? 
-11.	What percentage of bookings require car parking spaces, and does this vary by hotel location or other factors?
-12.	What are the main reservation statuses (e.g., confirmed, cancelled, checked-in), and how do they change over time? 
-13.	What is the distribution of guests based on the number of adults, children, and stays in weekend nights?
-14.	Which email domains are most commonly used for making hotel bookings? 
-15.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
-16.	Which market segments contribute the most revenue to the hotels?
-17.	How do booking patterns vary across different seasons or months of the year?
+6.	Do bookings made through agents exhibit different cancellation rates compared to direct bookings?
+
+
+![Screenshot 2024-05-14 160023](https://github.com/Skokulwar12/Booking.com/assets/163553184/d773df6e-5bdc-4ebb-8dcd-50e458cc9798)
+
+
+![Screenshot 2024-05-14 160034](https://github.com/Skokulwar12/Booking.com/assets/163553184/6e958c7a-9983-442e-ab4d-df0a3cdb7e2e)
+
+7.	How do prices vary across different hotels ? Are there any seasonal pricing trends?
+
+
+![Screenshot 2024-05-14 154935](https://github.com/Skokulwar12/Booking.com/assets/163553184/4aadd165-1f85-4a7e-b9d5-e180c2871ea0)
+
+
+![Screenshot 2024-05-14 154954](https://github.com/Skokulwar12/Booking.com/assets/163553184/4154c644-38d5-4103-ae8b-3273e819f4a8)
+
+
+8.	What percentage of bookings require car parking spaces, and does this vary by hotel location or other factors?
+
+
+![Screenshot 2024-05-14 162232](https://github.com/Skokulwar12/Booking.com/assets/163553184/06fe8ddb-df5f-4463-bbfe-6d770616c429)
+
+
+![Screenshot 2024-05-14 162257](https://github.com/Skokulwar12/Booking.com/assets/163553184/92a834ef-ba6c-4d69-8ef7-309161cba423)
+
+9.	What are the main reservation statuses (e.g., confirmed, cancelled, checked-in), and how do they change over time? 
+10.	What is the distribution of guests based on the number of adults, children, and stays in weekend nights?
+11.	Which email domains are most commonly used for making hotel bookings? 
+12.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
+13.	Which market segments contribute the most revenue to the hotels?
+14.	How do booking patterns vary across different seasons or months of the year?
 
 Conclusion-
 
