@@ -123,4 +123,19 @@ ORDER BY
 LIMIT 
 	3;
 
---Do bookings made through agents exhibit different cancellation rates or booking durations compared to direct bookings?
+--How do prices vary across different hotels ? Are there any seasonal pricing trends?
+SELECT 
+	 	hotel,
+	 	TO_CHAR(booking_date,'Mon') 
+AS 
+		booking_month,
+	 	ROUND(AVG(price) :: numeric, 2) 
+AS 
+		average_price
+FROM 
+		booking_view
+GROUP BY 
+		hotel, 
+		booking_month
+ORDER BY 
+		average_price DESC;
