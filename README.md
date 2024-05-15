@@ -102,22 +102,34 @@ To guide our analysis, we formulated several key questions to explore and addres
 
 ![Screenshot 2024-05-15 113639](https://github.com/Skokulwar12/Booking.com/assets/163553184/507eac7d-2604-405c-9bf3-50e30ba684a9)
 
-12.	Which email domains are most commonly used for making hotel bookings?
+11.	Which email domains are most commonly used for making hotel bookings?
 
 ![Screenshot 2024-05-15 122121](https://github.com/Skokulwar12/Booking.com/assets/163553184/750d1604-c979-4a0c-bb23-762faa9f152b)
 
 
 ![Screenshot 2024-05-15 122133](https://github.com/Skokulwar12/Booking.com/assets/163553184/da088a6a-93db-436e-b909-cf7fe45131fc)
 
-13.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns?
+12.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns?
 
 ![Screenshot 2024-05-15 122602](https://github.com/Skokulwar12/Booking.com/assets/163553184/6dc2e7ae-7d82-455c-adfa-998638b852d3)
 
 
 ![Screenshot 2024-05-15 122611](https://github.com/Skokulwar12/Booking.com/assets/163553184/8b226a50-3f56-4718-878c-bd38f6345992)
 
-15.	Which market segments contribute the most revenue to the hotels?
-16.	How do booking patterns vary across different seasons or months of the year?
+13.	Which market segments contribute the most revenue to the hotels?
+
+![Screenshot 2024-05-15 125034](https://github.com/Skokulwar12/Booking.com/assets/163553184/8f2f2fc3-48b3-46d1-8acc-5ff883fab714)
+
+
+![Screenshot 2024-05-15 125053](https://github.com/Skokulwar12/Booking.com/assets/163553184/4cf89683-0f79-4cd6-9a08-022bdd789cfc)
+
+14.	How do booking patterns vary across different seasons or months of the year?
+
+
+![Screenshot 2024-05-15 130221](https://github.com/Skokulwar12/Booking.com/assets/163553184/ce3e9453-cf8e-44ec-92d2-3ca601974a68)
+
+
+![Screenshot 2024-05-15 130231](https://github.com/Skokulwar12/Booking.com/assets/163553184/8d4c7d72-b14d-4cbc-a9fb-05805554242f)
 
 Conclusion-
 
