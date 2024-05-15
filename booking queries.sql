@@ -32,6 +32,9 @@ AS
 		 ) AS subquery
 	WHERE rn = 1;
 
+
+--Key data insights
+
 --What is the overall cancellation rate for hotel bookings?
 
 WITH Totalbookings AS(
