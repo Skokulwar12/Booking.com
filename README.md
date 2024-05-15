@@ -132,7 +132,7 @@ To guide our analysis, we formulated several key questions to explore and addres
 ![Screenshot 2024-05-15 130231](https://github.com/Skokulwar12/Booking.com/assets/163553184/8d4c7d72-b14d-4cbc-a9fb-05805554242f)
 
 Conclusion-
-
+Our data analysis, empowered by SQL queries, revealed key trends. We identified a significant increase in bookings during Quarter 3 that is 27% and a customer preference for choosing market segment as Online TA which accounts for 54%. This knowledge equips us to make data-driven decisions that can enhance customer satisfaction and drive sales growth.
 
 
 ## Notice:
