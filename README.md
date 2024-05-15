@@ -83,12 +83,41 @@ To guide our analysis, we formulated several key questions to explore and addres
 
 ![Screenshot 2024-05-14 162257](https://github.com/Skokulwar12/Booking.com/assets/163553184/92a834ef-ba6c-4d69-8ef7-309161cba423)
 
-9.	What are the main reservation statuses (e.g., confirmed, cancelled, checked-in), and how do they change over time? 
+9.	What are the main reservation statuses (e.g., confirmed, cancelled, checked-in), and how do they change over time?
+
+![Screenshot 2024-05-14 210749](https://github.com/Skokulwar12/Booking.com/assets/163553184/6df62c83-08f5-4c45-94aa-926d749d2c9d)
+
+
+![Screenshot 2024-05-14 210804](https://github.com/Skokulwar12/Booking.com/assets/163553184/4452ed2b-678d-4cfb-9471-8756ccfdccd5)
+
+
+![Screenshot 2024-05-14 213825](https://github.com/Skokulwar12/Booking.com/assets/163553184/71f724fc-0e6b-450a-b16a-7764c0dc4507)
+
+
+![Screenshot 2024-05-14 213837](https://github.com/Skokulwar12/Booking.com/assets/163553184/8bd0d5a3-b46c-42d1-ae3d-8f0bd1590240)
+
 10.	What is the distribution of guests based on the number of adults, children, and stays in weekend nights?
-11.	Which email domains are most commonly used for making hotel bookings? 
-12.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
-13.	Which market segments contribute the most revenue to the hotels?
-14.	How do booking patterns vary across different seasons or months of the year?
+
+![Screenshot 2024-05-15 113627](https://github.com/Skokulwar12/Booking.com/assets/163553184/9b73e6bf-ae59-49d7-8fd0-54734a266655)
+
+![Screenshot 2024-05-15 113639](https://github.com/Skokulwar12/Booking.com/assets/163553184/507eac7d-2604-405c-9bf3-50e30ba684a9)
+
+12.	Which email domains are most commonly used for making hotel bookings?
+
+![Screenshot 2024-05-15 122121](https://github.com/Skokulwar12/Booking.com/assets/163553184/750d1604-c979-4a0c-bb23-762faa9f152b)
+
+
+![Screenshot 2024-05-15 122133](https://github.com/Skokulwar12/Booking.com/assets/163553184/da088a6a-93db-436e-b909-cf7fe45131fc)
+
+13.	Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns?
+
+![Screenshot 2024-05-15 122602](https://github.com/Skokulwar12/Booking.com/assets/163553184/6dc2e7ae-7d82-455c-adfa-998638b852d3)
+
+
+![Screenshot 2024-05-15 122611](https://github.com/Skokulwar12/Booking.com/assets/163553184/8b226a50-3f56-4718-878c-bd38f6345992)
+
+15.	Which market segments contribute the most revenue to the hotels?
+16.	How do booking patterns vary across different seasons or months of the year?
 
 Conclusion-
 
