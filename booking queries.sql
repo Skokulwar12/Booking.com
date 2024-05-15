@@ -204,3 +204,85 @@ GROUP BY
 		reservation_year
 ORDER BY 	
 		reservation_year DESC;
+
+
+--What is the distribution of guests based on the number of adults, children, and stays in weekend nights?
+
+SELECT 
+		adults,
+		children, 
+		stays_in_weekend_nights,
+		COUNT(*) AS bookings
+FROM 
+		booking_view
+GROUP BY 
+		adults, 
+		children, 
+		stays_in_weekend_nights
+ORDER BY 
+		bookings DESC;
+
+
+--Which email domains are most commonly used for making hotel bookings? 
+
+SELECT 
+	RIGHT
+		(email, LENGTH(email) - REGEXP_INSTR(email,  '@')) 
+		AS 
+			email_domain
+FROM 
+	booking_view
+GROUP BY 
+	email_domain;
+
+
+--Are there any frequently occurring names in hotel bookings, and do they exhibit any specific booking patterns? 
+
+SELECT 
+		booking_view.name, 
+		COUNT(*) AS total_bookings
+FROM 
+		booking_view
+GROUP BY 
+		booking_view.name
+ORDER BY 
+		total_bookings DESC;
+		
+--Which market segments contribute the most revenue to the hotels?
+
+SELECT 		
+		market_segment,
+		ROUND((SUM(price) * 100/ 
+			  (SELECT 
+			   		SUM(price) 
+			   FROM
+			   		booking_view)) :: numeric, 2)
+AS 
+		total_revenue_percentage		
+FROM
+		booking_view
+GROUP BY 
+		market_segment
+ORDER BY
+		total_revenue_percentage DESC
+LIMIT 3;
+
+--How do booking patterns vary across different seasons or months of the year?
+
+SELECT 
+		TO_CHAR(booking_date, 'Q') 
+AS 
+		booking_year_quarter,
+		COUNT(*) * 100 / 
+		(SELECT 
+			COUNT(*)
+		 FROM
+			booking_view) 
+AS 
+		total_booking_percentage
+FROM 
+		booking_view
+GROUP BY 
+		booking_year_quarter
+ORDER BY 
+		total_booking_percentage DESC;
